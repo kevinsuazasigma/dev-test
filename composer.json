@@ -1,0 +1,5 @@
+{
+    "require": {
+        "marquine/php-etl": "^1.1"
+    }
+}
